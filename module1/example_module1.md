@@ -90,7 +90,7 @@ Suivez les étapes ci-dessous et répondez aux questions ci-après.
 `
 SELECT * FROM voyageurs_merge WHERE satisfaction_globale IS NOT NULL
 `
-```
+```activite
 ::Questions::[markdown] Après avoir effectué le TP précédent, répondez aux questions suivantes:
 - Renseignez le lien vers la cartographie que vous avez réalisée, puis répondez aux questions suivantes:
 - Trouver des représentations qui permettent de visualiser instantanément les gares ayant le meilleure indice de satisfaction. inspecter les résultat, et compter combien de résultats sont affichés par rapport aux nombres de gares pour lesquelles vous avez un chiffre de satisfaction. 
