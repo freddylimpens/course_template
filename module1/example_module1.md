@@ -89,7 +89,7 @@ Suivez les étapes ci-dessous et répondez aux questions ci-après.
 `
 SELECT * FROM voyageurs_merge WHERE satisfaction_globale IS NOT NULL
 `
-```
+```activite
 ::Questions::[markdown]
 Après avoir suivi les étapes de la section précédentes, répondez aux questions:
 - Renseignez le lien vers la cartographie que vous avez réalisée, puis répondez aux questions suivantes:
