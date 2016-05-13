@@ -65,6 +65,17 @@ le .JSON: c'est le format d'échange de données sur le Web par excellence. C'es
 
 Nous verrons par la suite d'autres formats courants, notamment ceux dédiés aux donnés géoréférencées.  
 
+```comprehension
+
+::Format texte::[markdown]Parmis les formats de données suivants, lequel est un format texte, i.e lisible par un simple editeur de texte
+{
+~%50%JSON
+~%50%CSV
+~%-100%XLS
+}
+
+```
+
 
 ## Application : Manipuler les données avec CartoDB
 
